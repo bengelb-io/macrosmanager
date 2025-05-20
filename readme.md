@@ -1,6 +1,8 @@
 # Installation
 `npm i git+https://github.com/bengelb-io/macrosmanager.git`
+
 I'm not going to bother uploading this to npm, this is an AI slop project and a better more thought out version already exists.
+
 [Don't believe me?](https://github.com/jaywcjlove/hotkeys-js "hotkeys-js")
 
 # Usage
