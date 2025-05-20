@@ -9,7 +9,7 @@ export default [
   {
     input: 'src/index.ts',
     output: {
-      name: '',
+      name: 'macrosmanager',
       file: pkg.main,
       format: 'umd',
       sourcemap: true
